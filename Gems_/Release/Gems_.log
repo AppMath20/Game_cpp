@@ -1,0 +1,14 @@
+﻿  Main.cpp
+d:\repository\c++\gems_\gems_\main.cpp(9): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Window.cpp
+d:\repository\c++\gems_\gems_\window.cpp(140): warning C4244: =: преобразование "unsigned int" в "float", возможна потеря данных
+d:\repository\c++\gems_\gems_\window.cpp(141): warning C4244: =: преобразование "unsigned int" в "float", возможна потеря данных
+d:\repository\c++\gems_\gems_\window.cpp(144): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+d:\repository\c++\gems_\gems_\window.cpp(152): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+d:\repository\c++\gems_\gems_\window.cpp(169): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+  Создание кода
+  0 of 564 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Gems_.vcxproj -> D:\REPOSITORY\C++\Gems_\Release\Gems_.exe
